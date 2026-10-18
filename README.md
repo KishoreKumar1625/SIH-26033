@@ -50,20 +50,7 @@ AgriDirect AI is an AI-driven, decentralized direct-to-consumer (D2C) and busine
 
 #### 2. System Architecture Workflow Diagram
 
-+---------------------+          +------------------------+          +-----------------------+
-|  Farmer / FPO App   |          |   AgriDirect Backend   |          | Consumer / B2B App    |
-| - Crop Quality Scan |          |   (Django REST API)    |          | - Browse Fresh Produce|
-| - Localized Voice   | -------->|                        |<---------| - Direct Price Quote  |
-| - Harvest Listing   |          |  +------------------+  |          | - Escrow Payment      |
-+---------------------+          |  |    AI Engine     |  |          +-----------------------+
-                                 |  | - Demand Forecast|  |                      |
-                                 |  | - Route Optimizer|  |                      |
-                                 |  +------------------+  |                      v
-                                 +------------------------+          +-----------------------+
-                                              |                      | Integrated Logistics  |
-                                              +--------------------->| - Aggregated Pick-up  |
-                                                                     | - Cold-Chain Route    |
-                                                                     +-----------------------+
+<img width="1798" height="576" alt="Gemini_Generated_Image_yvervzyvervzyver" src="https://github.com/user-attachments/assets/70059bcc-815f-4cae-a20f-04c0f16fb2b1" />
 
 ---
 ## Feasibility and Viability
